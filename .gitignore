@@ -1,0 +1,6 @@
+# Python stuffs
+env/
+__pycache__/
+
+# Environment variable file
+.env
